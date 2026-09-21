@@ -1,2 +1,2 @@
-## Remote commands exection API
+## Remote commands execution API
 
